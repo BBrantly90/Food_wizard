@@ -83,7 +83,7 @@ For more details on the MIT License terms, please refer to the [LICENSE](./LICEN
 This Food Wizard project was created by:
 
 - **Your Name**: Hemalatha Prakasam
-- **GitHub**: [GitHub Profile](https://github.com/hemuprabu)
+- **GitHub**: [GitHub Profile](https://github.com/BBrantly90)
 
 Feel free to connect with me for any inquiries or feedback related to the Food Wizard application. I hope you enjoy using the application and creating custom logos with it.
 
